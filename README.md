@@ -1,5 +1,7 @@
 # gpages
 
+https://rahuldave.github.io/gpages/
+
 ## Script for the Lab: Preamble
 
 1. Set up a github account
